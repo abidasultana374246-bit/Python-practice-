@@ -1,8 +1,8 @@
 # My Python Projects
 
-This repository contains my Python projects.
+This repository contains my Python projects and learning journey.
 
-# My Python Learning Journey 🚀
+## My Python Learning Journey 🚀
 
 Welcome to my Python learning repository!
 
@@ -35,10 +35,10 @@ Some projects include:
 - Expense Tracker
 - Hotel Management System
 - Thomas AI
-- Note app
-- Calculator 
-- Login system
-- Student mangment system 
+- Notes App
+- Calculator
+- Login System
+- Student Management System
 - And more projects as I continue learning...
 
 ## 📚 Learning Approach
