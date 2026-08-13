@@ -1,17 +1,5 @@
-# Python-practice-
-My python learning projects
-# Expense Tracker
+# My Python Projects
 
-A simple Expense Tracker made with Python.
+This repository contains my Python projects.
 
-## Features
-
-- Add expenses
-- View expenses
-- Calculate total expenses
-- Remove expense
-- search expense
-
-## Language
-
-Python
+I am learning Python and building projects to improve my programming skills.
