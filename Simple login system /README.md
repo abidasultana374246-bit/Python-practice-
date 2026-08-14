@@ -44,14 +44,14 @@ Login-System/
 └── data/
     └── user_save.txt
 __
-
+##Inportent 
 The data folder and user_save.txt file are created automatically when the program runs.
 
-🛠️ Technologies Used
+##🛠️ Technologies Used
 Python
 os module
 File Handling
-📚 Python Concepts Practiced
+##📚 Python Concepts Practiced
 This project helped me practice:
 Functions
 Dictionaries / Data Processing
@@ -65,7 +65,7 @@ os.makedirs()
 os.path.join()
 User Input
 String Processing
-🚀 How It Works
+##🚀 How It Works
 1. Signup
 The user enters a username and password.
 The program checks whether the username already exists.
@@ -78,9 +78,9 @@ If the username and password match, login is successful.
 The program checks whether the required folder and file exist.
 If they don't exist, they are automatically created.
 This makes the project easier to use on a new device.
-💻 Project Type
+##💻 Project Type
 Command-Line Application
-🔮 Future Improvements
+##🔮 Future Improvements
 Password hashing
 Better error handling
 Edit account information
@@ -88,6 +88,6 @@ Change password
 Multiple user roles
 JSON or database storage
 Better user interface
-👨‍💻 Author
+##👨‍💻 Author
 Abdullah
 This is a learning project created while learning Python, file handling, and automation concepts.
