@@ -34,18 +34,10 @@ The program now automatically:
 
 Because of this, the project can be used on different computers and devices without manually creating the data folder and file first.
 
-## 📁 Project Structure
-
-```text
-Login-System/
-│
-├── login.py
-│
-└── data/
-    └── user_save.txt
 __
 ##Inportent 
-The data folder and user_save.txt file are created automatically when the program runs.
+The data folder and user_save.
+txt file are created automatically when the program runs.
 
 ##🛠️ Technologies Used
 Python
@@ -80,6 +72,16 @@ If they don't exist, they are automatically created.
 This makes the project easier to use on a new device.
 ##💻 Project Type
 Command-Line Application
+## 📁 Project Structure
+
+```text
+Login-System/
+│
+├── login.py
+│
+└── data/
+    └── user_save.txt
+
 ##🔮 Future Improvements
 Password hashing
 Better error handling
